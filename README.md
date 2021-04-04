@@ -1,14 +1,23 @@
-Just a 13 year old programmer who enjoys coding stupid [Discord](https://github.com/discord) snippets <3
---------------------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/72931279/113443592-45dc4700-93c0-11eb-9035-8fb857ee8362.png) |
+------------ |
+[Velosynthh](https://github.com/synthhhh) |
+-----------------------------------------------------------------------------------------------------------------
 
 **Links**
-- [Velosy's GitHub](https://github.com/Ryonfill)
-- [Velosy's Twtter](https://twitter.com/Ryonfill)
-- [Velosy's Discord Server](https://discord.gg/5hqReEDFJp)
+![image](https://media.discordapp.net/attachments/821426277709774881/828083264178487346/github.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828086206969020486/twitter.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828100070868123698/discord.png) |
+------------ | ------------ | ------------
+[GitHub](https://github.com/synthhhh) | [Twitter](https://twitter.com/Velosynthh) | [Discord Community](https://discord.gg/5hqReEDFJp)
+
 
 **Organizations**
 - [BD Fragments](https://github.com/BDFragments)
 - [BD Styles](https://github.com/BDStyles)
+
+BD Fragments | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 **Repos**
 - Most of my repos are on my [primary organization](https:/github.com/BDFragments) where I upload snippets.
@@ -25,4 +34,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
