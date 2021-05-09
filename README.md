@@ -2,10 +2,10 @@
 
 # evadeRyon - Introduction
 
-## Who am I?
+**Who am I?**
 - *Hi 👋, I'm Ryon, a 13 year old programmer who programs in CSS and Lua, I'm not good at any of them but I still enjoy programming using those 2 languages.*
 
-## What I do
+**What I do**
 - *I make [Discord](https://discord.com) themes using CSS and I also make [Roblox](https://roblox.com) scripts using Lua!*
 
 <!--
