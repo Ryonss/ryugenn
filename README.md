@@ -1,21 +1,12 @@
+# Stats
 ![](https://komarev.com/ghpvc/?username=ryonnn)
 
-Just a theme developer with intermediate experience. 🎨
+![Pulv's Stats](https://github-readme-stats.vercel.app/api?username=pulvest&show_icons=true&theme=radical&hide_border=true&border_radius=20)
 
-# My GitHub Stats
-![Pulv's Stats](https://github-readme-stats.vercel.app/api?username=pulvest&show_icons=true&theme=radical)
+# Discord Themes
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pulvest&repo=synthcord-frame&theme=radical&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
-# Projects
-Image | Description
------------- | -------------
-![Screenshot 2021-06-02 173557](https://user-images.githubusercontent.com/72931279/120556532-9d9c2c00-c3ca-11eb-8d90-a4cada148440.png) | Synthcord Frame is a translucent [Discord](https://discord.com) theme that replaces Discord's ugly colors with a [Neon Sunset background](https://www.deviantart.com/axiomdesign/art/Neon-Sunset-4k-709421733) to accuately emulate a Synthwave experience. Inspired by [Robb Owen's SynthWave 84 theme](https://github.com/robb0wen/synthwave-vscode) and [Korb's Dream Frame theme.](https://github.com/dream-frame/Dream-Frame)
-![114952682-c3726f00-9e24-11eb-9d7b-afc70af5357b](https://user-images.githubusercontent.com/72931279/120556784-f9ff4b80-c3ca-11eb-95cd-4c7e08333e7c.png) | Hyprisms is a round, purple discord theme heavily inspired by *[🪐 Midnight Mars](https://github.com/LuckFire/midnight-mars)* and *[Nebula](https://github.com/Pavui/Nebula4)*. It was formerly called Hydrite then was renamed to Prismic and then finally renamed to Hyprisms.
-![115478621-8dfac680-a214-11eb-9f33-d007aa27915d](https://user-images.githubusercontent.com/72931279/120557107-6f6b1c00-c3cb-11eb-9fe9-bf4f3ea29579.png) | Cyancord is a deep blue cyan theme coded with compatibility for [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp), it is currently discontinued due to the amount of projects I work on.
-![115912588-82d6af00-a43d-11eb-87c2-d79a1167e4c7](https://user-images.githubusercontent.com/72931279/120557499-0506ab80-c3cc-11eb-80dc-d8890a0bd6bc.png) | Synthcord '84 is a deep, dark purple theme that **tries** to give a Synthwave experience, coded with compatibility for BetterDiscord, inspired by [Robb Owen's SynthWave 84 theme.](https://github.com/robb0wen/synthwave-vscode) It was formerly called Amethyst, a dark theme with purple/pinkish colors until I decided to rename and change it to Synthcord 84.
- 
-# My Profiles/Socials
-- Nothing here so far...
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komihiro-development&repo=hyprisms&theme=radical&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 <!-- e | e
 
 <!--
