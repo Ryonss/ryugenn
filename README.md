@@ -1,14 +1,7 @@
 # Stats
 ![](https://komarev.com/ghpvc/?username=ryonnn)
 
-![Pulv's Stats](https://github-readme-stats.vercel.app/api?username=rysworldd&show_icons=true&theme=radical&hide_border=true&border_radius=20)
-
-# Discord Themes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rysworldd&repo=synthcord-frame&theme=radical&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komihiro-development&repo=hyprisms&theme=radical&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komihiro-development&repo=synthcord-84&theme=radical&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+![Ry's Stats](https://github-readme-stats.vercel.app/api?username=rysworldd&show_icons=true&theme=radical&hide_border=true&border_radius=20)
 <!-- e | e
 
 <!--
