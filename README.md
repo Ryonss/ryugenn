@@ -1,23 +1,15 @@
-I'm Ry, a 13 year old programmer that enjoys coding.
+<details><summary>Discord Themes</summary>
+  <li><a href="https://github.com/rydevelopment/ComfyPink">ComfyPink</a></li>
+</details>
 
-# Programming Languages
-  - CSS
-  - Lua
-
-# Top Languages Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rysworldd&layout=compact&theme=radical&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
-
-# Discord Themes
-- Just some discord themes I made and I'm working on.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rydevelopment&repo=ComfyPink&theme=radical&hide_border=true&border_radius=20)](https://github.com/rydevelopment/ComfyPink)
-
-# Stats
-- My profile stats.
+<details><summary>Stats</summary>
 
 ![](https://komarev.com/ghpvc/?username=ryonnn)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rysworldd&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Ry's Stats](https://github-readme-stats.vercel.app/api?username=rysworldd&show_icons=true&theme=radical&hide_border=true&border_radius=20)
+![Ry's Stats](https://github-readme-stats.vercel.app/api?username=rysworldd&show_icons=true&theme=radical&hide_border=true)
+</details>
 <!-- e | e
 
 <!--
@@ -48,5 +40,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --
 
-
-=
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rydevelopment&repo=ComfyPink&theme=radical&hide_border=true)](https://github.com/rydevelopment/ComfyPink)
