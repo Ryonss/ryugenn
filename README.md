@@ -1,30 +1,18 @@
-**Quick introduction about me**
-- 🕷️ I'm *Ry* or `ryswrldd`.
-- 🖥️ Theme developer with 3+ months of experience and semi Lua programmer. And that's about all.
+**who am i?**
+- 🃏 I'm *Velocity* or `vlostcity`.
+- 🎨 Theme developer with 3+ months of experience and Lua programmer.
 
-**My themes**
-- [ComfyPink](https://github.com/rysworldd/ComfyPink)
-- [Synthcord Frame](https://github.com/ryswrldd/synthcord-frame)
-  - A translucent discord theme that also tries to emulate a Synthwave experience. Comes with built-in variables that can be customized to your liking, such as background and colors. 
-- [Synthcord '84](https://github.com/ryswrldd/themes-archive/tree/main/synthcord-84)
-  - A dark theme that tries to emulate a Synthwave experience, inspired by Robb Owen's Synthwave '84 theme for VS Code.
-- [Hyprisms](https://github.com/ryswrldd/themes-archive/tree/main/hyprisms)
-  - A round, purple theme inspired by Nebula and Midnight Mars.
-- [Cyancord](https://github.com/ryswrldd/themes-archive/tree/main/cyancord)
-  - A deep blue cyan theme coded with compatibility for BetterDiscord. 
-
-**My scripts**
-- All of my released scripts will be posted [here](https://github.com/ryswrldd/scripts)
-
-**My stats**
+<details>
+<summary><strong>my statistics.</strong></summary>
 
 ![](https://komarev.com/ghpvc/?username=ryonnn)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryswrldd&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![vlostcity’s top languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=ryswrldd&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Ry's Stats](https://github-readme-stats.vercel.app/api?username=ryswrldd&show_icons=true&theme=radical&hide_border=true)
+![vlostcity’s statistics.](https://github-readme-stats.vercel.app/api?username=ryswrldd&show_icons=true&theme=radical&hide_border=true)
+</details>
 
-- Repo inspired by [teidesu's.](https://github.com/teidesu)
+- repo inspired by [teidesu's.](https://github.com/teidesu)
 <!-- e | e
 https://github.com/rysworldd
 
